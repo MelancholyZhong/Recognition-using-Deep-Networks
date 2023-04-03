@@ -24,7 +24,7 @@ Build with Makefile
 
 ### Before runing
 
-unzip the new_digits and greek_letters zip file, because these images are used in the tasks
+- unzip the new_digits and greek_letters zip file, because these images are used in the tasks
 
 ### For task 1 A~E (build, train and save the model)
 
@@ -45,10 +45,10 @@ unzip the new_digits and greek_letters zip file, because these images are used i
 - "mode" is by default `original`, which will run the task 3
 
 - All options for mode are:
-  -- `original` : for task 3, which load the train set provided by the professor
-  -- `additional_v1`: for extension 2, which added 3 examples for each letter
-  -- `additional_v2`: for extension 2, which added 6 examples for each letter
-  -- `extended`: for extension, which extended the greek letters and included omega and delta
+  - `original` : for task 3, which load the train set provided by the professor
+  - `additional_v1`: for extension 2, which added 3 examples for each letter
+  - `additional_v2`: for extension 2, which added 6 examples for each letter
+  - `extended`: for extension, which extended the greek letters and included omega and delta
 
 ### For experiment 1
 
