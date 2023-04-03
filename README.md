@@ -28,32 +28,32 @@ unzip the new_digits and greek_letters zip file, because these images are used i
 
 ### For task 1 A~E (build, train and save the model)
 
-In the treminal, enter command `python3 model.py` to run, or click the "run" button in the IDE
+- In the treminal, enter command `python3 model.py` to run, or click the "run" button in the IDE
 
 ### For task 1 E~G (test the model)
 
-In the treminal, enter command `python3 test.py` to run, or click the "run" button in the IDE
+- In the treminal, enter command `python3 test.py` to run, or click the "run" button in the IDE
 
 ### For task 2 (analyse the model)
 
-In the treminal, enter command `python3 analyse.py` to run, or click the "run" button in the IDE
+- In the treminal, enter command `python3 analyse.py` to run, or click the "run" button in the IDE
 
 ### For task 3 and extension 2 and extension 3
 
-In the treminal, enter command `python3 greek.py [mode]` to run.
+- In the treminal, enter command `python3 greek.py [mode]` to run.
 
-"mode" is by default `original`, which will run the task 3
+- "mode" is by default `original`, which will run the task 3
 
-All options for mode are:
-`original` : for task 3, which load the train set provided by the professor
-`additional_v1`: for extension 2, which added 3 examples for each letter
-`additional_v2`: for extension 2, which added 6 examples for each letter
-`extended`: for extension, which extended the greek letters and included omega and delta
+- All options for mode are:
+  -- `original` : for task 3, which load the train set provided by the professor
+  -- `additional_v1`: for extension 2, which added 3 examples for each letter
+  -- `additional_v2`: for extension 2, which added 6 examples for each letter
+  -- `extended`: for extension, which extended the greek letters and included omega and delta
 
 ### For experiment 1
 
-In the treminal, enter command `python3 experiment_1.py` to run,or click the "run" button in the IDE
+- In the treminal, enter command `python3 experiment_1.py` to run,or click the "run" button in the IDE
 
 ### For experiment 2
 
-In the treminal, enter command `python3 experiment_2.py` to run,or click the "run" button in the IDE
+- In the treminal, enter command `python3 experiment_2.py` to run,or click the "run" button in the IDE
